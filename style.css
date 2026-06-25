@@ -102,7 +102,7 @@ header{
 
 /*호버 효과*/
 .contact_btn:hover{
-    background-color: #BBFF00;
+    background-color: #fff;
     border-color: #BBFF00;
     color: #000;
     transform: scale(1.04); /*버튼 확대*/
