@@ -77,7 +77,7 @@ header{
 }
 
 .menu a:hover{
-    color: #BBFF00; /*menu 호버 시*/
+    color: #2432ff; /*menu 호버 시*/
 }
 
 /*오른쪽 메뉴 그룹*/
@@ -91,7 +91,7 @@ header{
 /*문의하기 버튼*/
 .contact_btn{
     padding: 18px 40px;
-    border: 2px solid #fff;
+    border: 2px solid #2432ff;
     border-radius: 999px;
     color: #fff;
     text-decoration: none;
@@ -102,8 +102,8 @@ header{
 
 /*호버 효과*/
 .contact_btn:hover{
-    background-color: #fff;
-    border-color: #BBFF00;
+    background-color: #2432ff;
+    border-color: #2432ff;
     color: #000;
     transform: scale(1.04); /*버튼 확대*/
 }
@@ -238,8 +238,8 @@ header{
 /*프로젝트 카드 호버시 확대됨*/
 .project_card:hover{
     transform: scale(1.02);
-    background: #202020;
-    box-shadow: 0 20px 60px rgba(187, 255, 0, 0.15);
+    background: #212122;
+    box-shadow: 0 20px 60px #4552ff;
 }
 
 /*좌측 콘텐츠*/
@@ -303,7 +303,7 @@ header{
 }
 
 .project_card:hover .technique_list li{
-    background: #BBFF00;
+    background: #2432ff;
     color: #000;
 }
 
@@ -386,8 +386,8 @@ header{
 }
 
 .contact_button:hover{
-    background-color: #BBFF00;
-    border-color: #BBFF00;
+    background-color: #2432ff;
+    border-color: #2432ff;
     color: #000;
     transform: scale(1.04);
 }
@@ -446,7 +446,7 @@ header{
 
 /*===footer start===*/
 .footer{
-    background-color: #BBFF00;
+    background-color: #2432ff;
     padding: 40px;
     overflow: hidden;
 }
